@@ -7,4 +7,4 @@ Simultaneously, we demonstrate the importance of combining the information from 
 
 **Keywords**: 3D body reconstruction, Independent Sign Language Recognition, Greek Sign Language, Facial Expression, Gesture Recognition}
 
-![](./images/main.png)
+![k](./images/main.jpg)
