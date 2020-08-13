@@ -6,3 +6,5 @@ We use this holistic 3D reconstruction for SLR, demonstrating that it leads to h
 Simultaneously, we demonstrate the importance of combining the information from all three channels, to achieve the best recognition results. 
 
 **Keywords**: 3D body reconstruction, Independent Sign Language Recognition, Greek Sign Language, Facial Expression, Gesture Recognition}
+
+![](./images/main.png)
